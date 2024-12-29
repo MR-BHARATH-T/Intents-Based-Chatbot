@@ -1,0 +1,2138 @@
+[
+    {
+        "pattern": "How to make a positive impact",
+        "tag": "philanthropy"
+    },
+    {
+        "pattern": "Tell me about philanthropy",
+        "tag": "philanthropy"
+    },
+    {
+        "pattern": "Tell me about memory improvement techniques",
+        "tag": "memory_improvement"
+    },
+    {
+        "pattern": "Which programming language to learn",
+        "tag": "coding_languages"
+    },
+    {
+        "pattern": "Tell me about tech support",
+        "tag": "technology_help"
+    },
+    {
+        "pattern": "Trying extraterrestrial cuisine",
+        "tag": "extraterrestrial_cuisine"
+    },
+    {
+        "pattern": "What's the purpose of life",
+        "tag": "meaning_of_life"
+    },
+    {
+        "pattern": "Tell me about cybersecurity",
+        "tag": "cybersecurity"
+    },
+    {
+        "pattern": "How to protect the environment",
+        "tag": "nature"
+    },
+    {
+        "pattern": "Tell me about popular travel destinations",
+        "tag": "travel_destinations"
+    },
+    {
+        "pattern": "Reading spells from magical tomes",
+        "tag": "enchanted_books"
+    },
+    {
+        "pattern": "What's your favorite dish",
+        "tag": "cooking"
+    },
+    {
+        "pattern": "How are you",
+        "tag": "greeting"
+    },
+    {
+        "pattern": "How to overcome obstacles",
+        "tag": "motivation"
+    },
+    {
+        "pattern": "The therapeutic benefits of gardening",
+        "tag": "gardening"
+    },
+    {
+        "pattern": "How to stay productive",
+        "tag": "time_management"
+    },
+    {
+        "pattern": "Advantages of blockchain technology",
+        "tag": "virtual_currency"
+    },
+    {
+        "pattern": "Tell me a positive quote",
+        "tag": "positivity_quotes"
+    },
+    {
+        "pattern": "How can you assist with technology",
+        "tag": "technology_help"
+    },
+    {
+        "pattern": "Experiencing enchanted rain",
+        "tag": "enchanted_rain"
+    },
+    {
+        "pattern": "Gifts for time-traveling visitors",
+        "tag": "time_traveler_guest"
+    },
+    {
+        "pattern": "Interpreting butterfly movements",
+        "tag": "butterfly_language"
+    },
+    {
+        "pattern": "How to make cooking easier",
+        "tag": "cooking_tips"
+    },
+    {
+        "pattern": "Tell me about technology",
+        "tag": "technology"
+    },
+    {
+        "pattern": "The thrill of broomstick races",
+        "tag": "flying_on_broomsticks"
+    },
+    {
+        "pattern": "How does gene editing work",
+        "tag": "gene_editing"
+    },
+    {
+        "pattern": "Exploring alternate realities",
+        "tag": "dimensional_doorway"
+    },
+    {
+        "pattern": "Movie genres",
+        "tag": "movies"
+    },
+    {
+        "pattern": "Tell me about gardening as a hobby",
+        "tag": "gardening"
+    },
+    {
+        "pattern": "Tell me about self-care",
+        "tag": "self_care"
+    },
+    {
+        "pattern": "Art and craft activities for kids",
+        "tag": "developing_creativity_in_children"
+    },
+    {
+        "pattern": "Discovering enchanted paintings",
+        "tag": "enchanted_paintings"
+    },
+    {
+        "pattern": "Recommend me a song",
+        "tag": "music"
+    },
+    {
+        "pattern": "Tell me about the future",
+        "tag": "future"
+    },
+    {
+        "pattern": "Crate training for puppies",
+        "tag": "pet_training"
+    },
+    {
+        "pattern": "Possessing a book of magical spells",
+        "tag": "book_of_spells"
+    },
+    {
+        "pattern": "Tell me about mindful consumption",
+        "tag": "mindful_consumption"
+    },
+    {
+        "pattern": "Tell me about job search strategies",
+        "tag": "job_search"
+    },
+    {
+        "pattern": "Cybersecurity best practices",
+        "tag": "cybersecurity"
+    },
+    {
+        "pattern": "Experiencing mind-reading abilities",
+        "tag": "telepathy_skills"
+    },
+    {
+        "pattern": "Tell me a positive quote",
+        "tag": "positivity"
+    },
+    {
+        "pattern": "How to embrace diversity",
+        "tag": "exploring_culture_and_traditions"
+    },
+    {
+        "pattern": "Buildings that defy gravity and logic",
+        "tag": "fantastical_architecture"
+    },
+    {
+        "pattern": "Tell me about creativity",
+        "tag": "creativity"
+    },
+    {
+        "pattern": "Discovering enchanted fruits",
+        "tag": "enchanted_fruits"
+    },
+    {
+        "pattern": "See you later",
+        "tag": "goodbye"
+    },
+    {
+        "pattern": "Using magic mirrors for communication",
+        "tag": "magic_mirrors"
+    },
+    {
+        "pattern": "How to start practicing yoga",
+        "tag": "yoga"
+    },
+    {
+        "pattern": "Creating a meditation routine",
+        "tag": "daily_meditation"
+    },
+    {
+        "pattern": "Learning from magical mistakes",
+        "tag": "magical_mistakes"
+    },
+    {
+        "pattern": "How to practice self-affirmation",
+        "tag": "positive_affirmations"
+    },
+    {
+        "pattern": "How to build an e-commerce website",
+        "tag": "online_business"
+    },
+    {
+        "pattern": "Do you have a name",
+        "tag": "name"
+    },
+    {
+        "pattern": "The mystery of fairy rings",
+        "tag": "fairy_rings"
+    },
+    {
+        "pattern": "Tell me about kitchen hacks",
+        "tag": "cooking_tips"
+    },
+    {
+        "pattern": "The compass that points to desires",
+        "tag": "enchanted_compass"
+    },
+    {
+        "pattern": "Why is EQ important",
+        "tag": "emotional_intelligence"
+    },
+    {
+        "pattern": "The magic of passing down stories",
+        "tag": "timeless_tales"
+    },
+    {
+        "pattern": "Hosting a time traveler as a guest",
+        "tag": "time_traveler_guest"
+    },
+    {
+        "pattern": "Roaming through eras and dimensions",
+        "tag": "timeless_wanderer"
+    },
+    {
+        "pattern": "Tell me about different workout routines",
+        "tag": "workout"
+    },
+    {
+        "pattern": "Interpreting fortune cookie messages",
+        "tag": "fortune_cookie_messages"
+    },
+    {
+        "pattern": "Managing finances as a student",
+        "tag": "budgeting_tips"
+    },
+    {
+        "pattern": "Magical duels and wizard battles",
+        "tag": "spellcasting_tournament"
+    },
+    {
+        "pattern": "I like you",
+        "tag": "compliment"
+    },
+    {
+        "pattern": "Songs that soothe and enchant",
+        "tag": "enchanted_lullabies"
+    },
+    {
+        "pattern": "Encounters with mythical sea creatures",
+        "tag": "underwater_exploration"
+    },
+    {
+        "pattern": "Benefits of yoga for mental health",
+        "tag": "yoga"
+    },
+    {
+        "pattern": "Adventures with an invisible cloak",
+        "tag": "invisibility_cloak"
+    },
+    {
+        "pattern": "Reading a time traveler's journal",
+        "tag": "time_travelers_journal"
+    },
+    {
+        "pattern": "Using pros and cons analysis for choices",
+        "tag": "effective_decision_making"
+    },
+    {
+        "pattern": "Solving enchanted riddles",
+        "tag": "enchanted_riddles"
+    },
+    {
+        "pattern": "Encountering an enchanted well",
+        "tag": "enchanted_well"
+    },
+    {
+        "pattern": "Tell me about emotional intelligence",
+        "tag": "emotional_intelligence"
+    },
+    {
+        "pattern": "Tell me about frugal living",
+        "tag": "budgeting_tips"
+    },
+    {
+        "pattern": "Tell me about traveling to space",
+        "tag": "space_travel"
+    },
+    {
+        "pattern": "Tell me about job interview preparation",
+        "tag": "job_interview_tips"
+    },
+    {
+        "pattern": "Magical creatures in the woods",
+        "tag": "enchanted_forests"
+    },
+    {
+        "pattern": "How to find a job",
+        "tag": "career"
+    },
+    {
+        "pattern": "Staying fit at home",
+        "tag": "home_fitness"
+    },
+    {
+        "pattern": "Tell me about social media",
+        "tag": "social_media"
+    },
+    {
+        "pattern": "Magical ingredients and recipes",
+        "tag": "wizarding_cuisine"
+    },
+    {
+        "pattern": "Relaxation techniques",
+        "tag": "time_for_yourself"
+    },
+    {
+        "pattern": "Chocolate-themed parties and events",
+        "tag": "chocolate_obsession"
+    },
+    {
+        "pattern": "Dressing for job interviews",
+        "tag": "job_interview_tips"
+    },
+    {
+        "pattern": "Tell me about dietary restrictions",
+        "tag": "food_dietary_restrictions"
+    },
+    {
+        "pattern": "Ethical considerations of genetic engineering",
+        "tag": "gene_editing"
+    },
+    {
+        "pattern": "Creatures and landscapes in dreamscapes",
+        "tag": "fantasy_dreamscape"
+    },
+    {
+        "pattern": "Forming bonds with mythical beasts",
+        "tag": "dragon_tamer"
+    },
+    {
+        "pattern": "Tell me about hiking trails",
+        "tag": "hiking"
+    },
+    {
+        "pattern": "The allure of ancient mysteries",
+        "tag": "timeless_relics"
+    },
+    {
+        "pattern": "How to start a vegetable garden",
+        "tag": "gardening"
+    },
+    {
+        "pattern": "Fruits with mystical flavors and effects",
+        "tag": "enchanted_fruits"
+    },
+    {
+        "pattern": "How old are you",
+        "tag": "age"
+    },
+    {
+        "pattern": "Recognizing signs of distress in young people",
+        "tag": "youth_mental_health"
+    },
+    {
+        "pattern": "Recipes from ancient spellbooks",
+        "tag": "spellbinding_cuisine"
+    },
+    {
+        "pattern": "Importance of regular vet check-ups",
+        "tag": "responsible_pet_ownership"
+    },
+    {
+        "pattern": "Tell me about love",
+        "tag": "relationship"
+    },
+    {
+        "pattern": "What can you do",
+        "tag": "about"
+    },
+    {
+        "pattern": "Using reusable alternatives",
+        "tag": "plastic_waste_reduction"
+    },
+    {
+        "pattern": "Benefits of volunteering",
+        "tag": "volunteering"
+    },
+    {
+        "pattern": "Quests for mythical artifacts and treasures",
+        "tag": "fantasy_adventures"
+    },
+    {
+        "pattern": "Embracing personal growth",
+        "tag": "self_reflection"
+    },
+    {
+        "pattern": "Creating joy with humor",
+        "tag": "comedy_tonic"
+    },
+    {
+        "pattern": "Tell me about sustainability",
+        "tag": "sustainability"
+    },
+    {
+        "pattern": "Tell me about history",
+        "tag": "history"
+    },
+    {
+        "pattern": "Tell me about eco-friendly transportation options",
+        "tag": "eco-friendly_transportation"
+    },
+    {
+        "pattern": "Tell me about mindfulness in nature",
+        "tag": "mindfulness_in_nature"
+    },
+    {
+        "pattern": "Do you know any jokes",
+        "tag": "joke"
+    },
+    {
+        "pattern": "How to improve communication skills",
+        "tag": "interpersonal_skills"
+    },
+    {
+        "pattern": "I need some inspiration",
+        "tag": "inspiration"
+    },
+    {
+        "pattern": "Adventures with a robotic buddy",
+        "tag": "robot_companions"
+    },
+    {
+        "pattern": "Becoming a dragon tamer",
+        "tag": "dragon_tamer"
+    },
+    {
+        "pattern": "Unleashing magic from a cauldron",
+        "tag": "magic_cauldron"
+    },
+    {
+        "pattern": "What's your age",
+        "tag": "age"
+    },
+    {
+        "pattern": "Tell me about languages",
+        "tag": "languages"
+    },
+    {
+        "pattern": "What is your purpose",
+        "tag": "about"
+    },
+    {
+        "pattern": "How to stay fit",
+        "tag": "exercise"
+    },
+    {
+        "pattern": "Mastering the art of invisibility",
+        "tag": "invisibility_cloak"
+    },
+    {
+        "pattern": "Enrolling in a school of sorcery",
+        "tag": "magic_school"
+    },
+    {
+        "pattern": "What to consider while traveling",
+        "tag": "travel_tips"
+    },
+    {
+        "pattern": "The secrets of eternal snow",
+        "tag": "enchanted_snow"
+    },
+    {
+        "pattern": "The art of befriending dragons",
+        "tag": "dragon_tamer"
+    },
+    {
+        "pattern": "Best pet-friendly activities",
+        "tag": "pet_care"
+    },
+    {
+        "pattern": "Encounters with fairies in enchanted circles",
+        "tag": "fairy_rings"
+    },
+    {
+        "pattern": "Tell me about a fire-breathing dragon",
+        "tag": "fire-breathing_dragon"
+    },
+    {
+        "pattern": "Tell me about team-building activities",
+        "tag": "team_building"
+    },
+    {
+        "pattern": "Unique flavors from outer space",
+        "tag": "extraterrestrial_cuisine"
+    },
+    {
+        "pattern": "Practicing relaxation techniques for social situations",
+        "tag": "social_anxiety"
+    },
+    {
+        "pattern": "Participating in wizardly quizzes",
+        "tag": "wizardly_quizzes"
+    },
+    {
+        "pattern": "How to improve myself",
+        "tag": "self_improvement"
+    },
+    {
+        "pattern": "Tell me about sports",
+        "tag": "sports"
+    },
+    {
+        "pattern": "Quidditch-like games in real life",
+        "tag": "wizarding_sports"
+    },
+    {
+        "pattern": "Investment advice",
+        "tag": "finance_tips"
+    },
+    {
+        "pattern": "Dancing with mythical partners",
+        "tag": "enchanted_dance"
+    },
+    {
+        "pattern": "Importance of self-love",
+        "tag": "self_care"
+    },
+    {
+        "pattern": "How to create strong passwords",
+        "tag": "online_security"
+    },
+    {
+        "pattern": "Tell me about staying connected with loved ones",
+        "tag": "staying_connected"
+    },
+    {
+        "pattern": "Tell me about fashion trends",
+        "tag": "fashion_trends"
+    },
+    {
+        "pattern": "Tell me about daily meditation practice",
+        "tag": "daily_meditation"
+    },
+    {
+        "pattern": "Tell me about encountering mermaids",
+        "tag": "mermaid_encounters"
+    },
+    {
+        "pattern": "How to investigate paranormal activity",
+        "tag": "paranormal_investigation"
+    },
+    {
+        "pattern": "Tell me an encouraging quote",
+        "tag": "motivation"
+    },
+    {
+        "pattern": "Magical flora and fauna",
+        "tag": "enchanted_garden"
+    },
+    {
+        "pattern": "How to practice mindfulness meditation",
+        "tag": "mindfulness"
+    },
+    {
+        "pattern": "Tell me about car maintenance tips",
+        "tag": "car_maintenance"
+    },
+    {
+        "pattern": "What's the importance of physical activity",
+        "tag": "exercise"
+    },
+    {
+        "pattern": "Resolving conflicts peacefully",
+        "tag": "effective_communication_in_relationships"
+    },
+    {
+        "pattern": "Benefits of regular exercise",
+        "tag": "workout"
+    },
+    {
+        "pattern": "How to become a wizard",
+        "tag": "wizard_training"
+    },
+    {
+        "pattern": "The secrets of rainbow lore",
+        "tag": "rainbow_treasure"
+    },
+    {
+        "pattern": "How to save money on groceries",
+        "tag": "budgeting_tips"
+    },
+    {
+        "pattern": "Unraveling ancient enigmas",
+        "tag": "timeless_puzzles"
+    },
+    {
+        "pattern": "Melodies that enchant the soul",
+        "tag": "enchanted_music_box"
+    },
+    {
+        "pattern": "The quest for the title of the grand spellcaster",
+        "tag": "spellcasting_tournament"
+    },
+    {
+        "pattern": "Signs of depression",
+        "tag": "depression"
+    },
+    {
+        "pattern": "Living in cloud cities",
+        "tag": "cloud_castles"
+    },
+    {
+        "pattern": "Tell me about gaming",
+        "tag": "gaming"
+    },
+    {
+        "pattern": "Paintings that transcend dimensions",
+        "tag": "astral_artistry"
+    },
+    {
+        "pattern": "Benefits of group studying",
+        "tag": "effective_study_groups"
+    },
+    {
+        "pattern": "Tell me about reducing plastic waste",
+        "tag": "plastic_waste_reduction"
+    },
+    {
+        "pattern": "Tell me about online learning platforms",
+        "tag": "online_learning"
+    },
+    {
+        "pattern": "How to foster a positive team dynamic",
+        "tag": "team_building"
+    },
+    {
+        "pattern": "Portals to other dimensions",
+        "tag": "magic_mirrors"
+    },
+    {
+        "pattern": "Improving communication within teams",
+        "tag": "team_building"
+    },
+    {
+        "pattern": "Tell me about achieving work-life balance",
+        "tag": "work_life_balance"
+    },
+    {
+        "pattern": "Growing herbs and vegetables at home",
+        "tag": "gardening"
+    },
+    {
+        "pattern": "Feasting in the grand wizarding halls",
+        "tag": "wizarding_cuisine"
+    },
+    {
+        "pattern": "Tell me about mindfulness techniques",
+        "tag": "mindfulness"
+    },
+    {
+        "pattern": "Installing a security system",
+        "tag": "home_security"
+    },
+    {
+        "pattern": "Vegan and vegetarian options",
+        "tag": "food_dietary_restrictions"
+    },
+    {
+        "pattern": "You're awesome",
+        "tag": "compliment"
+    },
+    {
+        "pattern": "Benefits of cultural exchange",
+        "tag": "exploring_culture_and_traditions"
+    },
+    {
+        "pattern": "Tell me about developing creativity in children",
+        "tag": "developing_creativity_in_children"
+    },
+    {
+        "pattern": "Pirate maps and clues",
+        "tag": "pirate_treasures"
+    },
+    {
+        "pattern": "Different types of photography",
+        "tag": "photography"
+    },
+    {
+        "pattern": "Communicating through telepathy",
+        "tag": "telepathy_skills"
+    },
+    {
+        "pattern": "How to fix a leaky faucet",
+        "tag": "home_repair"
+    },
+    {
+        "pattern": "How does biomedical engineering work",
+        "tag": "biomedical_engineering"
+    },
+    {
+        "pattern": "Lessons in wizardry gone awry",
+        "tag": "magical_mistakes"
+    },
+    {
+        "pattern": "Tell me about entrepreneurship",
+        "tag": "entrepreneurship"
+    },
+    {
+        "pattern": "The power of gemstone magic",
+        "tag": "enchanted_gems"
+    },
+    {
+        "pattern": "Benefits of pursuing hobbies",
+        "tag": "hobbies"
+    },
+    {
+        "pattern": "Take care",
+        "tag": "goodbye"
+    },
+    {
+        "pattern": "Time travelers' stories of historical events",
+        "tag": "time_traveler_guest"
+    },
+    {
+        "pattern": "Thanks a lot",
+        "tag": "thanks"
+    },
+    {
+        "pattern": "Benefits of being multilingual",
+        "tag": "language_learning"
+    },
+    {
+        "pattern": "Tell me about creative writing",
+        "tag": "creative_writing"
+    },
+    {
+        "pattern": "How to take better photos",
+        "tag": "photography"
+    },
+    {
+        "pattern": "Encounters with ghosts and spirits",
+        "tag": "paranormal_investigation"
+    },
+    {
+        "pattern": "The importance of self-care in maintaining balance",
+        "tag": "work_life_balance"
+    },
+    {
+        "pattern": "What are you",
+        "tag": "about"
+    },
+    {
+        "pattern": "Listening to plants' whispers",
+        "tag": "plant_whispering"
+    },
+    {
+        "pattern": "Tell me about home security measures",
+        "tag": "home_security"
+    },
+    {
+        "pattern": "Benefits of gamified learning",
+        "tag": "gamification"
+    },
+    {
+        "pattern": "Solving riddles in fantasy mazes",
+        "tag": "enchanted_mazes"
+    },
+    {
+        "pattern": "Reflections and illusions in the maze",
+        "tag": "enchanted_mirror_maze"
+    },
+    {
+        "pattern": "Importance of giving back",
+        "tag": "philanthropy"
+    },
+    {
+        "pattern": "How to make homemade bread",
+        "tag": "baking"
+    },
+    {
+        "pattern": "Overcoming disordered eating patterns",
+        "tag": "healthy_relationship_with_food"
+    },
+    {
+        "pattern": "How to answer common interview questions",
+        "tag": "job_interview_tips"
+    },
+    {
+        "pattern": "Exploring the astral plane",
+        "tag": "astral_projection"
+    },
+    {
+        "pattern": "Benefits of meditation",
+        "tag": "meditation"
+    },
+    {
+        "pattern": "How does a virtual assistant work",
+        "tag": "virtual_assistant"
+    },
+    {
+        "pattern": "What's your favorite sport",
+        "tag": "sports"
+    },
+    {
+        "pattern": "Visiting far-off lands on a magic carpet",
+        "tag": "flying_carpet_adventures"
+    },
+    {
+        "pattern": "What's up",
+        "tag": "greeting"
+    },
+    {
+        "pattern": "Benefits of mindfulness",
+        "tag": "mindfulness"
+    },
+    {
+        "pattern": "Dessert recipes for celebrations",
+        "tag": "cooking_for_special_occasions"
+    },
+    {
+        "pattern": "I appreciate it",
+        "tag": "thanks"
+    },
+    {
+        "pattern": "Benefits of energy conservation",
+        "tag": "reducing_energy_consumption"
+    },
+    {
+        "pattern": "Preserving relics from the past",
+        "tag": "timeless_treasures"
+    },
+    {
+        "pattern": "What's the latest tech news",
+        "tag": "technology"
+    },
+    {
+        "pattern": "How does science impact our lives",
+        "tag": "science"
+    },
+    {
+        "pattern": "Getting lost in an enchanted mirror maze",
+        "tag": "enchanted_mirror_maze"
+    },
+    {
+        "pattern": "Using LinkedIn for job hunting",
+        "tag": "job_search"
+    },
+    {
+        "pattern": "The thrill of deciphering cryptic codes",
+        "tag": "timeless_puzzles"
+    },
+    {
+        "pattern": "Transmuting base metals into gold",
+        "tag": "arcane_alchemy"
+    },
+    {
+        "pattern": "Medical innovations",
+        "tag": "biomedical_engineering"
+    },
+    {
+        "pattern": "Magical athletes and their feats",
+        "tag": "wizarding_sports"
+    },
+    {
+        "pattern": "Tell me about your favorite travel spot",
+        "tag": "travel"
+    },
+    {
+        "pattern": "How to cultivate positivity in life",
+        "tag": "positivity_in_life"
+    },
+    {
+        "pattern": "Protecting children online",
+        "tag": "online_security"
+    },
+    {
+        "pattern": "Becoming a wizard's apprentice",
+        "tag": "wizard_apprenticeship"
+    },
+    {
+        "pattern": "DIY home projects",
+        "tag": "home_decor"
+    },
+    {
+        "pattern": "Mirror reflections revealing the truth",
+        "tag": "magic_mirrors"
+    },
+    {
+        "pattern": "Building castles in the clouds",
+        "tag": "cloud_castles"
+    },
+    {
+        "pattern": "Empowering women with self-defense skills",
+        "tag": "self_defense_for_women"
+    },
+    {
+        "pattern": "Inviting aliens to a cosmic disco",
+        "tag": "space_dance_party"
+    },
+    {
+        "pattern": "Tell me about exploring different cultures and traditions",
+        "tag": "exploring_culture_and_traditions"
+    },
+    {
+        "pattern": "Future technology",
+        "tag": "future"
+    },
+    {
+        "pattern": "Hi",
+        "tag": "greeting"
+    },
+    {
+        "pattern": "How does AR work",
+        "tag": "augmented_reality"
+    },
+    {
+        "pattern": "Tell me about a chocolate obsession",
+        "tag": "chocolate_obsession"
+    },
+    {
+        "pattern": "Hosting a dance party in space",
+        "tag": "space_dance_party"
+    },
+    {
+        "pattern": "How to pack for a trip",
+        "tag": "travel_tips"
+    },
+    {
+        "pattern": "Tell me about mindful technology usage",
+        "tag": "mindful_technology_usage"
+    },
+    {
+        "pattern": "How to warm up before singing",
+        "tag": "singing"
+    },
+    {
+        "pattern": "Tell me about talking animals",
+        "tag": "talking_animals"
+    },
+    {
+        "pattern": "Make me laugh",
+        "tag": "joke"
+    },
+    {
+        "pattern": "Energy-saving tips at home",
+        "tag": "reducing_energy_consumption"
+    },
+    {
+        "pattern": "How does IoT work",
+        "tag": "internet_of_things"
+    },
+    {
+        "pattern": "Psychic abilities and mental manipulation",
+        "tag": "mind_control"
+    },
+    {
+        "pattern": "Tell me about gardening tips",
+        "tag": "gardening"
+    },
+    {
+        "pattern": "Importance of a bedtime routine",
+        "tag": "healthy_sleep"
+    },
+    {
+        "pattern": "Tell me about using reusable transportation",
+        "tag": "reusable_transportation"
+    },
+    {
+        "pattern": "Pros and cons of social networking",
+        "tag": "social_media"
+    },
+    {
+        "pattern": "Supporting plastic-free initiatives",
+        "tag": "reducing_single_use_plastics"
+    },
+    {
+        "pattern": "Different journaling styles",
+        "tag": "journaling"
+    },
+    {
+        "pattern": "Magical melodies and songs",
+        "tag": "enchanted_music"
+    },
+    {
+        "pattern": "Nutritious snacks for an energy pick-me-up",
+        "tag": "energy_boosting_foods"
+    },
+    {
+        "pattern": "Protecting personal information online",
+        "tag": "data_privacy"
+    },
+    {
+        "pattern": "Organizing small living spaces",
+        "tag": "home_organization"
+    },
+    {
+        "pattern": "Designing dreamlike structures",
+        "tag": "fantastical_architecture"
+    },
+    {
+        "pattern": "Learning alien languages",
+        "tag": "alien_languages"
+    },
+    {
+        "pattern": "Tell me about meal preparation tips",
+        "tag": "meal_preparation"
+    },
+    {
+        "pattern": "Benefits of unplugging from social media",
+        "tag": "social_media_detox"
+    },
+    {
+        "pattern": "Tell me about responsible pet ownership",
+        "tag": "responsible_pet_ownership"
+    },
+    {
+        "pattern": "The magic of bedtime melodies",
+        "tag": "enchanted_lullabies"
+    },
+    {
+        "pattern": "Productivity tips",
+        "tag": "productivity"
+    },
+    {
+        "pattern": "Tell me about movies",
+        "tag": "movies"
+    },
+    {
+        "pattern": "The power of a magical cooking pot",
+        "tag": "magic_cauldron"
+    },
+    {
+        "pattern": "Volunteer opportunities",
+        "tag": "generosity_and_giving"
+    },
+    {
+        "pattern": "Tell me about coping with social anxiety",
+        "tag": "social_anxiety"
+    },
+    {
+        "pattern": "Sustainable fashion",
+        "tag": "fashion_trends"
+    },
+    {
+        "pattern": "Ways to give back to the community",
+        "tag": "generosity_and_giving"
+    },
+    {
+        "pattern": "Exploring wizarding cuisine",
+        "tag": "wizarding_cuisine"
+    },
+    {
+        "pattern": "Discovering hidden superpowers",
+        "tag": "superhero_training"
+    },
+    {
+        "pattern": "The science behind time manipulation",
+        "tag": "time_bending"
+    },
+    {
+        "pattern": "Marveling at fantastical architecture",
+        "tag": "fantastical_architecture"
+    },
+    {
+        "pattern": "Elegant waltzes through the ages",
+        "tag": "timeless_ballroom"
+    },
+    {
+        "pattern": "Tell me about time travel theories",
+        "tag": "time_travel"
+    },
+    {
+        "pattern": "How to start coding",
+        "tag": "coding"
+    },
+    {
+        "pattern": "Tell me about different yoga styles",
+        "tag": "yoga"
+    },
+    {
+        "pattern": "How to practice self-compassion",
+        "tag": "positive_self-talk"
+    },
+    {
+        "pattern": "Fortune cookie predictions coming true",
+        "tag": "fortune_cookie_messages"
+    },
+    {
+        "pattern": "How to overcome stage fright",
+        "tag": "public_speaking"
+    },
+    {
+        "pattern": "Setting digital boundaries for a healthy lifestyle",
+        "tag": "mindful_technology_usage"
+    },
+    {
+        "pattern": "Creating folders and file naming conventions",
+        "tag": "digital_organization"
+    },
+    {
+        "pattern": "Limitations of shape-shifters",
+        "tag": "shape-shifting_abilities"
+    },
+    {
+        "pattern": "Movie genres",
+        "tag": "movies_series"
+    },
+    {
+        "pattern": "Building self-confidence",
+        "tag": "positive_self-talk"
+    },
+    {
+        "pattern": "Tell me about happiness",
+        "tag": "happiness"
+    },
+    {
+        "pattern": "Mind control in science fiction",
+        "tag": "mind_control"
+    },
+    {
+        "pattern": "Challenges of taming a dragon",
+        "tag": "fire-breathing_dragon"
+    },
+    {
+        "pattern": "Tell me about home workout equipment",
+        "tag": "home_fitness"
+    },
+    {
+        "pattern": "The allure of ancient tomes",
+        "tag": "spellbook_collection"
+    },
+    {
+        "pattern": "Tell me about managing technology addiction",
+        "tag": "technology_addiction"
+    },
+    {
+        "pattern": "Tell me about your favorite book",
+        "tag": "books"
+    },
+    {
+        "pattern": "What's your favorite movie",
+        "tag": "movies"
+    },
+    {
+        "pattern": "Long-distance friendships",
+        "tag": "staying_connected"
+    },
+    {
+        "pattern": "What's the purpose of life",
+        "tag": "philosophy"
+    },
+    {
+        "pattern": "Visiting enchanted stables",
+        "tag": "enchanted_stables"
+    },
+    {
+        "pattern": "Universal communication with aliens",
+        "tag": "alien_languages"
+    },
+    {
+        "pattern": "Tell me about coding",
+        "tag": "coding"
+    },
+    {
+        "pattern": "How to start a DIY project",
+        "tag": "art_and_crafts"
+    },
+    {
+        "pattern": "How to support someone with depression",
+        "tag": "depression"
+    },
+    {
+        "pattern": "How to maintain a healthy relationship",
+        "tag": "relationship"
+    },
+    {
+        "pattern": "Social media marketing",
+        "tag": "online_business"
+    },
+    {
+        "pattern": "Why are we here",
+        "tag": "meaning_of_life"
+    },
+    {
+        "pattern": "Tell me about philosophy",
+        "tag": "philosophy"
+    },
+    {
+        "pattern": "The art of transforming into other beings",
+        "tag": "shape-shifting_abilities"
+    },
+    {
+        "pattern": "What do you do for fun",
+        "tag": "hobby"
+    },
+    {
+        "pattern": "The mysteries within mystical mists",
+        "tag": "enchanted_fog"
+    },
+    {
+        "pattern": "Encountering enchanted fog",
+        "tag": "enchanted_fog"
+    },
+    {
+        "pattern": "Creating a memorable dinner party menu",
+        "tag": "cooking_for_special_occasions"
+    },
+    {
+        "pattern": "What is ASI",
+        "tag": "artificial_superintelligence"
+    },
+    {
+        "pattern": "Gemstones with mystical properties",
+        "tag": "enchanted_gems"
+    },
+    {
+        "pattern": "Using eco-friendly alternatives",
+        "tag": "reducing_single_use_plastics"
+    },
+    {
+        "pattern": "How to reduce carbon footprint",
+        "tag": "global_warming"
+    },
+    {
+        "pattern": "Tell me about energy-boosting foods",
+        "tag": "energy_boosting_foods"
+    },
+    {
+        "pattern": "Advantages of e-learning",
+        "tag": "online_learning"
+    },
+    {
+        "pattern": "Tell me about virtual currencies",
+        "tag": "virtual_currency"
+    },
+    {
+        "pattern": "Unleashing the power of ancient incantations",
+        "tag": "book_of_spells"
+    },
+    {
+        "pattern": "Applications of machine learning",
+        "tag": "machine_learning"
+    },
+    {
+        "pattern": "Time travel through cosmic anomalies",
+        "tag": "time_warps"
+    },
+    {
+        "pattern": "Building trust",
+        "tag": "relationship_advice"
+    },
+    {
+        "pattern": "How to reduce social media usage",
+        "tag": "social_media_detox"
+    },
+    {
+        "pattern": "Importance of creativity",
+        "tag": "creativity"
+    },
+    {
+        "pattern": "Listening to enchanted lullabies",
+        "tag": "enchanted_lullabies"
+    },
+    {
+        "pattern": "Discovering enchanted books",
+        "tag": "enchanted_books"
+    },
+    {
+        "pattern": "How to communicate with plants",
+        "tag": "plant_whispering"
+    },
+    {
+        "pattern": "How does AI work",
+        "tag": "artificial_intelligence"
+    },
+    {
+        "pattern": "Tell me about riding a dragon",
+        "tag": "dragon_riding"
+    },
+    {
+        "pattern": "Tell me about career development",
+        "tag": "career"
+    },
+    {
+        "pattern": "Tell me about building resilience",
+        "tag": "resilience"
+    },
+    {
+        "pattern": "Setting study goals as a team",
+        "tag": "effective_study_groups"
+    },
+    {
+        "pattern": "Tell me about social media detox",
+        "tag": "social_media_detox"
+    },
+    {
+        "pattern": "Tell me about astral projection",
+        "tag": "astral_projection"
+    },
+    {
+        "pattern": "Tell me about relationship advice",
+        "tag": "relationship_advice"
+    },
+    {
+        "pattern": "Resolving conflicts",
+        "tag": "positive_relationships"
+    },
+    {
+        "pattern": "You're great",
+        "tag": "compliment"
+    },
+    {
+        "pattern": "What's your favorite video game",
+        "tag": "gaming"
+    },
+    {
+        "pattern": "Tell me about different meditation techniques",
+        "tag": "meditation"
+    },
+    {
+        "pattern": "Recommend me a TV show",
+        "tag": "movies_series"
+    },
+    {
+        "pattern": "Slaying dragons and vanquishing dark lords",
+        "tag": "fantasy_adventures"
+    },
+    {
+        "pattern": "How to choose the right pet",
+        "tag": "pet_adoption"
+    },
+    {
+        "pattern": "Tell me about spellbinding artifacts",
+        "tag": "spellbinding_artifacts"
+    },
+    {
+        "pattern": "How to change a flat tire",
+        "tag": "car_maintenance"
+    },
+    {
+        "pattern": "What will technology be like in 50 years",
+        "tag": "futuristic_technology"
+    },
+    {
+        "pattern": "How to stay motivated for workouts",
+        "tag": "workout"
+    },
+    {
+        "pattern": "Tell me about healthy sleep habits",
+        "tag": "healthy_sleep"
+    },
+    {
+        "pattern": "Tell me about enchanted forests",
+        "tag": "enchanted_forests"
+    },
+    {
+        "pattern": "How to boost creativity",
+        "tag": "creativity"
+    },
+    {
+        "pattern": "Benefits of hiking",
+        "tag": "hiking"
+    },
+    {
+        "pattern": "Creating a safe and enriching environment for pets",
+        "tag": "responsible_pet_ownership"
+    },
+    {
+        "pattern": "Next-gen innovations",
+        "tag": "futuristic_technology"
+    },
+    {
+        "pattern": "Relics from legendary tales",
+        "tag": "spellbinding_artifacts"
+    },
+    {
+        "pattern": "Haunted locations to explore",
+        "tag": "paranormal_investigation"
+    },
+    {
+        "pattern": "Tips to stay focused and productive",
+        "tag": "procrastination"
+    },
+    {
+        "pattern": "How to find happiness",
+        "tag": "happiness"
+    },
+    {
+        "pattern": "Recommend me a movie",
+        "tag": "movies"
+    },
+    {
+        "pattern": "Having a robot companion",
+        "tag": "robot_companions"
+    },
+    {
+        "pattern": "How to stay focused while studying",
+        "tag": "study_tips"
+    },
+    {
+        "pattern": "Guardians of mystical lakes",
+        "tag": "enchanted_forest_lake"
+    },
+    {
+        "pattern": "The science of reading minds",
+        "tag": "mind_reading_glasses"
+    },
+    {
+        "pattern": "Tell me about emerging technologies",
+        "tag": "emerging_technologies"
+    },
+    {
+        "pattern": "Tell me about mindful eating",
+        "tag": "mindful_eating"
+    },
+    {
+        "pattern": "How to practice self-care",
+        "tag": "self_care"
+    },
+    {
+        "pattern": "Coping with setbacks and challenges",
+        "tag": "resilience"
+    },
+    {
+        "pattern": "Tell me about parenting tips",
+        "tag": "parenting"
+    },
+    {
+        "pattern": "How do I create a budget",
+        "tag": "budget"
+    },
+    {
+        "pattern": "Practicing nature meditation",
+        "tag": "mindfulness_in_nature"
+    },
+    {
+        "pattern": "What's your favorite book",
+        "tag": "books"
+    },
+    {
+        "pattern": "Potions and concoctions brewed in cauldrons",
+        "tag": "magic_cauldron"
+    },
+    {
+        "pattern": "Embracing a positive mindset",
+        "tag": "positivity_in_life"
+    },
+    {
+        "pattern": "Affirmations for confidence",
+        "tag": "positive_affirmations"
+    },
+    {
+        "pattern": "Navigating through time vortexes",
+        "tag": "time_warps"
+    },
+    {
+        "pattern": "Thank you",
+        "tag": "thanks"
+    },
+    {
+        "pattern": "Tell me about brain-computer interfaces",
+        "tag": "brain_computer_interface"
+    },
+    {
+        "pattern": "Relationship advice",
+        "tag": "relationship"
+    },
+    {
+        "pattern": "How to develop telepathy skills",
+        "tag": "telepathy_skills"
+    },
+    {
+        "pattern": "How's the weather today",
+        "tag": "weather"
+    },
+    {
+        "pattern": "What's happening in space",
+        "tag": "space_exploration"
+    },
+    {
+        "pattern": "Challenges and tests of magical knowledge",
+        "tag": "wizardly_quizzes"
+    },
+    {
+        "pattern": "Encountering an enchanted teapot",
+        "tag": "enchanted_teapot"
+    },
+    {
+        "pattern": "Importance of self-care",
+        "tag": "time_for_yourself"
+    },
+    {
+        "pattern": "Tell me about art",
+        "tag": "art"
+    },
+    {
+        "pattern": "Studying spells and incantations",
+        "tag": "spellbook_collection"
+    },
+    {
+        "pattern": "Becoming a real-life superhero",
+        "tag": "superhero_training"
+    },
+    {
+        "pattern": "Tell me about journaling benefits",
+        "tag": "journaling"
+    },
+    {
+        "pattern": "I need help",
+        "tag": "help"
+    },
+    {
+        "pattern": "How to decorate a small space",
+        "tag": "home_decor"
+    },
+    {
+        "pattern": "The magic of reflective waters",
+        "tag": "enchanted_forest_lake"
+    },
+    {
+        "pattern": "What's a good budgeting strategy",
+        "tag": "budget"
+    },
+    {
+        "pattern": "Using comedy as a tonic for happiness",
+        "tag": "comedy_tonic"
+    },
+    {
+        "pattern": "How to teach basic commands to dogs",
+        "tag": "pet_training"
+    },
+    {
+        "pattern": "Where to travel next",
+        "tag": "travel_destinations"
+    },
+    {
+        "pattern": "Solving timeless puzzles",
+        "tag": "timeless_puzzles"
+    },
+    {
+        "pattern": "Hello",
+        "tag": "greeting"
+    },
+    {
+        "pattern": "Tell me about food",
+        "tag": "food"
+    },
+    {
+        "pattern": "Astrology vs. astronomy",
+        "tag": "universe"
+    },
+    {
+        "pattern": "The magic of snow in mythical realms",
+        "tag": "enchanted_snow"
+    },
+    {
+        "pattern": "How to build positive relationships",
+        "tag": "positive_relationships"
+    },
+    {
+        "pattern": "Preparing alien-inspired dishes",
+        "tag": "extraterrestrial_cuisine"
+    },
+    {
+        "pattern": "Tell me about gamification",
+        "tag": "gamification"
+    },
+    {
+        "pattern": "Portals through magical artworks",
+        "tag": "enchanted_paintings"
+    },
+    {
+        "pattern": "What's your favorite dish",
+        "tag": "cuisine"
+    },
+    {
+        "pattern": "Tell me about mind-bending riddles",
+        "tag": "mind_bending_riddles"
+    },
+    {
+        "pattern": "Spread some positivity",
+        "tag": "positivity"
+    },
+    {
+        "pattern": "Writing personalized fortune cookies",
+        "tag": "fortune_cookie_messages"
+    },
+    {
+        "pattern": "Tell me about data privacy",
+        "tag": "data_privacy"
+    },
+    {
+        "pattern": "Listening to enchanted music",
+        "tag": "enchanted_music"
+    },
+    {
+        "pattern": "Tips for self-development",
+        "tag": "self_improvement"
+    },
+    {
+        "pattern": "Tell me about virtual assistants",
+        "tag": "virtual_assistant"
+    },
+    {
+        "pattern": "AI applications",
+        "tag": "artificial_intelligence"
+    },
+    {
+        "pattern": "Music that transcends time",
+        "tag": "enchanted_music_box"
+    },
+    {
+        "pattern": "Riddles from ancient civilizations",
+        "tag": "mind_bending_riddles"
+    },
+    {
+        "pattern": "Essential spells for beginners",
+        "tag": "wizard_training"
+    },
+    {
+        "pattern": "Plant emotions and feelings",
+        "tag": "plant_whispering"
+    },
+    {
+        "pattern": "Tell me about flying on broomsticks",
+        "tag": "flying_on_broomsticks"
+    },
+    {
+        "pattern": "Importance of staying hydrated",
+        "tag": "energy_boosting_foods"
+    },
+    {
+        "pattern": "Seeing challenges as opportunities",
+        "tag": "positivity_in_life"
+    },
+    {
+        "pattern": "Tell me about reducing single-use plastics",
+        "tag": "reducing_single_use_plastics"
+    },
+    {
+        "pattern": "Tell me about healthy eating habits",
+        "tag": "nutrition_tips"
+    },
+    {
+        "pattern": "Hiring professionals for home improvement",
+        "tag": "home_repair"
+    },
+    {
+        "pattern": "The adventures of a timeless wanderer",
+        "tag": "timeless_wanderer"
+    },
+    {
+        "pattern": "Discovering timeless relics",
+        "tag": "timeless_relics"
+    },
+    {
+        "pattern": "Understanding stocks, bonds, and mutual funds",
+        "tag": "financial_investing"
+    },
+    {
+        "pattern": "Philosophical questions",
+        "tag": "philosophy"
+    },
+    {
+        "pattern": "Wearing mind-reading glasses",
+        "tag": "mind_reading_glasses"
+    },
+    {
+        "pattern": "Talking to butterflies for relaxation",
+        "tag": "butterfly_language"
+    },
+    {
+        "pattern": "How does ML work",
+        "tag": "machine_learning"
+    },
+    {
+        "pattern": "How to build a versatile wardrobe",
+        "tag": "fashion_trends"
+    },
+    {
+        "pattern": "Setting boundaries with digital devices",
+        "tag": "technology_addiction"
+    },
+    {
+        "pattern": "How to learn a new language",
+        "tag": "languages"
+    },
+    {
+        "pattern": "Avoiding procrastination",
+        "tag": "time_management"
+    },
+    {
+        "pattern": "Tell me about movies or series",
+        "tag": "movies_series"
+    },
+    {
+        "pattern": "Playing wizarding sports",
+        "tag": "wizarding_sports"
+    },
+    {
+        "pattern": "How do robots work",
+        "tag": "robotics"
+    },
+    {
+        "pattern": "Benefits of mindful eating",
+        "tag": "mindful_eating"
+    },
+    {
+        "pattern": "Backup and data protection",
+        "tag": "digital_organization"
+    },
+    {
+        "pattern": "How to write a compelling resume",
+        "tag": "job_search"
+    },
+    {
+        "pattern": "Retirement planning tips",
+        "tag": "personal_finances"
+    },
+    {
+        "pattern": "Traditional foods from different cultures",
+        "tag": "cuisine"
+    },
+    {
+        "pattern": "Tell me about financial investing",
+        "tag": "financial_investing"
+    },
+    {
+        "pattern": "Exploring ancient artifacts",
+        "tag": "timeless_treasures"
+    },
+    {
+        "pattern": "Do you have any hobbies",
+        "tag": "hobby"
+    },
+    {
+        "pattern": "Dancing in a timeless ballroom",
+        "tag": "timeless_ballroom"
+    },
+    {
+        "pattern": "Mastering lightsaber combat",
+        "tag": "jedi_training"
+    },
+    {
+        "pattern": "Wishes granted by magical waters",
+        "tag": "enchanted_well"
+    },
+    {
+        "pattern": "Tell me about fostering emotional resilience in children",
+        "tag": "emotional_resilience_in_children"
+    },
+    {
+        "pattern": "Dancing in a time warp",
+        "tag": "time_warp_dance"
+    },
+    {
+        "pattern": "What is a credit score",
+        "tag": "credit_score"
+    },
+    {
+        "pattern": "Benefits of dancing",
+        "tag": "dancing"
+    },
+    {
+        "pattern": "Tell me about effective study techniques",
+        "tag": "study_tips"
+    },
+    {
+        "pattern": "Tell me about travel tips",
+        "tag": "travel_tips"
+    },
+    {
+        "pattern": "What's your favorite historical period",
+        "tag": "history"
+    },
+    {
+        "pattern": "Tell me about the universe",
+        "tag": "universe"
+    },
+    {
+        "pattern": "How to use social media responsibly",
+        "tag": "social_media"
+    },
+    {
+        "pattern": "What's your favorite food",
+        "tag": "food"
+    },
+    {
+        "pattern": "Statues with mystical powers",
+        "tag": "enchanted_sculptures"
+    },
+    {
+        "pattern": "Staying motivated during goal pursuit",
+        "tag": "goal_setting"
+    },
+    {
+        "pattern": "Storytelling that spans generations",
+        "tag": "timeless_tales"
+    },
+    {
+        "pattern": "Nanotech applications",
+        "tag": "nanotechnology"
+    },
+    {
+        "pattern": "Tell me about shape-shifting abilities",
+        "tag": "shape-shifting_abilities"
+    },
+    {
+        "pattern": "How to train a puppy",
+        "tag": "pet_care"
+    },
+    {
+        "pattern": "Help",
+        "tag": "help"
+    },
+    {
+        "pattern": "Can you help me",
+        "tag": "help"
+    },
+    {
+        "pattern": "Tell me about interesting hobbies",
+        "tag": "hobbies"
+    },
+    {
+        "pattern": "Motivational sayings",
+        "tag": "positivity_quotes"
+    },
+    {
+        "pattern": "The fusion of dance and time travel",
+        "tag": "time_warp_dance"
+    },
+    {
+        "pattern": "Quick and easy recipes",
+        "tag": "cooking_tips"
+    },
+    {
+        "pattern": "The magical properties of rare fruits",
+        "tag": "enchanted_fruits"
+    },
+    {
+        "pattern": "The magic of butterfly wings",
+        "tag": "enchanted_butterflies"
+    },
+    {
+        "pattern": "Understanding thoughts through eyewear",
+        "tag": "mind_reading_glasses"
+    },
+    {
+        "pattern": "Tell me about pet training tips",
+        "tag": "pet_training"
+    },
+    {
+        "pattern": "What is mindfulness",
+        "tag": "mindfulness"
+    },
+    {
+        "pattern": "Tell me about gene editing",
+        "tag": "gene_editing"
+    },
+    {
+        "pattern": "Tell me about starship adventures",
+        "tag": "starship_adventures"
+    },
+    {
+        "pattern": "Do you have any pets",
+        "tag": "pets"
+    },
+    {
+        "pattern": "Seeking wisdom from the depths",
+        "tag": "enchanted_well"
+    },
+    {
+        "pattern": "Tell me about public speaking tips",
+        "tag": "public_speaking"
+    },
+    {
+        "pattern": "Mysteries and surprises in magical labyrinths",
+        "tag": "enchanted_mazes"
+    },
+    {
+        "pattern": "Music that casts spells and charms",
+        "tag": "enchanted_music"
+    },
+    {
+        "pattern": "How to meditate effectively",
+        "tag": "meditation"
+    },
+    {
+        "pattern": "Becoming the ruler of a cloud castle",
+        "tag": "cloud_castle_ruler"
+    },
+    {
+        "pattern": "The excitement of discovering buried treasure",
+        "tag": "treasure_hunting"
+    },
+    {
+        "pattern": "Tell me about exploring the depths of the ocean",
+        "tag": "underwater_exploration"
+    },
+    {
+        "pattern": "Time-traveling dance moves",
+        "tag": "time_warp_dance"
+    },
+    {
+        "pattern": "Tell me about composting",
+        "tag": "composting"
+    },
+    {
+        "pattern": "Opening a dimensional doorway",
+        "tag": "dimensional_doorway"
+    },
+    {
+        "pattern": "Balanced approach to nutrition",
+        "tag": "healthy_relationship_with_food"
+    },
+    {
+        "pattern": "Tell me about volunteering opportunities",
+        "tag": "volunteering"
+    },
+    {
+        "pattern": "Tell me about effective study groups",
+        "tag": "effective_study_groups"
+    },
+    {
+        "pattern": "Sharing timeless tales",
+        "tag": "timeless_tales"
+    },
+    {
+        "pattern": "How to make an invisibility cloak",
+        "tag": "invisibility_cloak"
+    },
+    {
+        "pattern": "How to get involved in community service",
+        "tag": "volunteering"
+    },
+    {
+        "pattern": "How to start a compost pile",
+        "tag": "composting"
+    },
+    {
+        "pattern": "What's your favorite color",
+        "tag": "favorite_color"
+    },
+    {
+        "pattern": "Objects with magical properties",
+        "tag": "spellbinding_artifacts"
+    },
+    {
+        "pattern": "Tell me about cooking for special occasions",
+        "tag": "cooking_for_special_occasions"
+    },
+    {
+        "pattern": "Benefits of emotional intelligence in relationships",
+        "tag": "emotional_intelligence"
+    },
+    {
+        "pattern": "Discovering an enchanted forest lake",
+        "tag": "enchanted_forest_lake"
+    },
+    {
+        "pattern": "Advantages of cycling or walking",
+        "tag": "eco-friendly_transportation"
+    },
+    {
+        "pattern": "Tell me about music genres",
+        "tag": "music"
+    },
+    {
+        "pattern": "Winning rewards from mystical quizzes",
+        "tag": "wizardly_quizzes"
+    },
+    {
+        "pattern": "Brewing enchanted potions",
+        "tag": "enchanted_potions"
+    },
+    {
+        "pattern": "Who are you",
+        "tag": "about"
+    },
+    {
+        "pattern": "Tell me about time management",
+        "tag": "productivity"
+    },
+    {
+        "pattern": "How to stay safe in public places",
+        "tag": "self_defense"
+    },
+    {
+        "pattern": "Do you play games",
+        "tag": "gaming"
+    },
+    {
+        "pattern": "How does BCI work",
+        "tag": "brain_computer_interface"
+    },
+    {
+        "pattern": "What's the importance of multilingualism",
+        "tag": "languages"
+    },
+    {
+        "pattern": "Tell me about effective communication in relationships",
+        "tag": "effective_communication_in_relationships"
+    },
+    {
+        "pattern": "Connecting with the natural world",
+        "tag": "mindfulness_in_nature"
+    },
+    {
+        "pattern": "Exploring distant galaxies",
+        "tag": "starship_adventures"
+    },
+    {
+        "pattern": "Balancing the Force within",
+        "tag": "jedi_training"
+    },
+    {
+        "pattern": "Tell me about art and craft ideas",
+        "tag": "art_and_crafts"
+    },
+    {
+        "pattern": "Laughter as a remedy for stress",
+        "tag": "comedy_tonic"
+    },
+    {
+        "pattern": "Exploring lands of wonder and enchantment",
+        "tag": "fantasy_lands"
+    },
+    {
+        "pattern": "Tell me about nature",
+        "tag": "nature"
+    },
+    {
+        "pattern": "Visiting dragon sanctuaries",
+        "tag": "dragon_riding"
+    },
+    {
+        "pattern": "How big is the universe",
+        "tag": "universe"
+    },
+    {
+        "pattern": "Pros and cons of cloud kingdom leadership",
+        "tag": "cloud_castle_ruler"
+    },
+    {
+        "pattern": "Tell me about developing leadership skills",
+        "tag": "leadership_skills"
+    },
+    {
+        "pattern": "Collecting rare and powerful spells",
+        "tag": "book_of_spells"
+    },
+    {
+        "pattern": "Tell me about space exploration",
+        "tag": "space_exploration"
+    },
+    {
+        "pattern": "How to plan and prep meals in advance",
+        "tag": "meal_preparation"
+    },
+    {
+        "pattern": "Encounters with enchanted butterflies",
+        "tag": "enchanted_butterflies"
+    },
+    {
+        "pattern": "Next big tech innovations",
+        "tag": "emerging_technologies"
+    },
+    {
+        "pattern": "How to declutter your space",
+        "tag": "home_organization"
+    },
+    {
+        "pattern": "Mastering the art of broomstick riding",
+        "tag": "flying_on_broomsticks"
+    },
+    {
+        "pattern": "How to prepare for a hiking trip",
+        "tag": "hiking"
+    },
+    {
+        "pattern": "How to start a business",
+        "tag": "entrepreneurship"
+    },
+    {
+        "pattern": "Tell me about encountering mystical creatures",
+        "tag": "mystical_creatures"
+    },
+    {
+        "pattern": "Implementing sustainable practices in office settings",
+        "tag": "waste_reduction_at_work"
+    },
+    {
+        "pattern": "Unexplored travel spots",
+        "tag": "travel_destinations"
+    },
+    {
+        "pattern": "Safety tips for women",
+        "tag": "self_defense_for_women"
+    },
+    {
+        "pattern": "How to save money",
+        "tag": "finance_tips"
+    },
+    {
+        "pattern": "Exploring astral artistry",
+        "tag": "astral_artistry"
+    },
+    {
+        "pattern": "How to protect against cyber threats",
+        "tag": "cybersecurity"
+    },
+    {
+        "pattern": "Improving presentation skills",
+        "tag": "public_speaking"
+    },
+    {
+        "pattern": "Creating a home gym",
+        "tag": "home_fitness"
+    }
+]
