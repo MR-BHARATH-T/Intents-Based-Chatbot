@@ -61,7 +61,7 @@ intents = [
         "responses": [
             "My purpose is to assist you",
             "I can answer questions and provide assistance",
-            "You can call me A to Z 🤖 Interactive Chatbot."
+            "You can call me A to Z 🤖 Interactive Chatbot. I can answer questions and provide assistance"
         ]
     },
     {
