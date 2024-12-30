@@ -136,8 +136,7 @@ intents = [
         ],
         "responses": [
             "You can call me A to Z 🤖 Interactive Chatbot.",
-            "My name is A to Z 🤖 Interactive Chatbot.",
-            "My name is ChatBot"
+            "My name is A to Z 🤖 Interactive Chatbot."
         ]
     },
     {
